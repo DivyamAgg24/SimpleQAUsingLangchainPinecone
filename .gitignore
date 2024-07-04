@@ -1,0 +1,7 @@
+env
+exp
+MCQgenerator.egg-info
+.env
+data.txt
+requirements.txt
+setup.py
