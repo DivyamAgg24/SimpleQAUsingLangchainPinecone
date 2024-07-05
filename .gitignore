@@ -5,3 +5,4 @@ MCQgenerator.egg-info
 data.txt
 requirements.txt
 setup.py
+chromadb
